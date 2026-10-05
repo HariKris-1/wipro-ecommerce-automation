@@ -14,7 +14,7 @@
 
 ## Why This Exists
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="250" alt="Deep Focus Work">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250" alt="Deep Focus Work">
 
 
 Manual testing of e-commerce critical flows like login, product selection, cart management, and checkout is time-consuming and error-prone. This capstone project serves as an end-to-end web automation lab that automates these exact flows to ensure functional stability across regressions.
@@ -51,7 +51,7 @@ graph TD
 
 ## Test Coverage
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="200" alt="Mission Bug Termination">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="200" alt="Mission Bug Termination">
 
 We automate **11 Scenarios** across critical user journeys:
 
