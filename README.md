@@ -14,7 +14,8 @@
 
 ## Why This Exists
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="250" alt="Deep Focus Work">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="250" alt="Deep Focus Work">
+
 
 Manual testing of e-commerce critical flows like login, product selection, cart management, and checkout is time-consuming and error-prone. This capstone project serves as an end-to-end web automation lab that automates these exact flows to ensure functional stability across regressions.
 
